@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_lines">路線選択</string>
+    <string name="menu_favorite">★ ブックマーク</string>
+    <string name="hello">Hello World, RouteStatusActivity!</string>
+    <string name="err_no_result">路線の情報はありません。</string>
+    <string name="err_no_favorite">ブックマークの登録がありません。</string>
+    <string name="favorite_lines">★ 路線のブックマーク</string>
+    <string name="lines_select">路線選択</string>
+    <string name="favorite">ブックマーク選択</string>
+    <string name="company_select">路線選択</string>
+    <string name="app_name">電車なう[大阪編]</string>
+
+    <string-array name="route_context_nemu">
+        <item>公式サイトで確認する</item>
+    </string-array>
+    <string-array name="line_name_search">
+        <item>1-1|JR|福知山線|福知山線 -RT|http://trafficinfo.westjr.co.jp/kinki.html</item>
+        <item>1-2|JR|東西線|JR東西線 -RT|http://trafficinfo.westjr.co.jp/kinki.html</item>
+        <item>1-3|JR|大阪環状線|大阪環状線 -RT|http://trafficinfo.westjr.co.jp/kinki.html</item>
+        <item>1-4|JR|中央線|中央線 -RT|http://trafficinfo.westjr.co.jp/kinki.html</item>
+        <item>1-5|JR|桜島線|桜島線 -RT|http://trafficinfo.westjr.co.jp/kinki.html</item>
+        <item>1-6|JR|関西本線|関西本線 -RT|http://trafficinfo.westjr.co.jp/kinki.html</item>
+        <item>1-7|JR|片町線|片町線 -RT|http://trafficinfo.westjr.co.jp/kinki.html</item>
+        <item>1-8|JR|阪和線|阪和線 -RT|http://trafficinfo.westjr.co.jp/kinki.html</item>
+        <item>1-9|JR|関西空港線|関西空港線 -RT|http://trafficinfo.westjr.co.jp/kinki.html</item>
+        <item>1-10|JR|おおさか東線|おおさか東線 -RT|http://trafficinfo.westjr.co.jp/kinki.html</item>
+        <item>1-11|JR|京都線|京都線 -RT|http://trafficinfo.westjr.co.jp/kinki.html</item>
+        <item>1-12|JR|神戸線|神戸線 -RT|http://trafficinfo.westjr.co.jp/kinki.html</item>
+        <item>1-13|JR|宝塚線|宝塚線 -RT|http://trafficinfo.westjr.co.jp/kinki.html</item>
+        <item>1-15|JR|大和路線|内房線 -RT|http://trafficinfo.westjr.co.jp/kinki.html</item>
+        <item>1-16|JR|ゆめ咲線|ゆめ咲線 -RT|http://trafficinfo.westjr.co.jp/kinki.html</item>
+        <item>2-1|大阪市営地下鉄|御堂筋線|御堂筋線 -RT|http://www.kotsu.city.osaka.jp/sub-info/main.pc.html</item>
+        <item>2-2|大阪市営地下鉄|谷町線|谷町線 -RT|http://www.kotsu.city.osaka.jp/sub-info/main.pc.html</item>
+        <item>2-3|大阪市営地下鉄|四つ橋線|四つ橋線-RT|http://www.kotsu.city.osaka.jp/sub-info/main.pc.html</item>
+        <item>2-4|大阪市営地下鉄|中央線|地下鉄中央線 -RT|http://www.kotsu.city.osaka.jp/sub-info/main.pc.html</item>
+        <item>2-5|大阪市営地下鉄|千日前線|千日前線 -RT|http://www.kotsu.city.osaka.jp/sub-info/main.pc.html</item>
+        <item>2-6|大阪市営地下鉄|堺筋線|堺筋線 -RT|http://www.kotsu.city.osaka.jp/sub-info/main.pc.html</item>
+        <item>2-7|大阪市営地下鉄|長堀鶴見緑地線|長堀鶴見緑地線 -RT|http://www.kotsu.city.osaka.jp/sub-info/main.pc.html</item>
+        <item>2-8|大阪市営地下鉄|南港ポートタウン線|南港ポートタウン線 -RT|http://www.kotsu.city.osaka.jp/sub-info/main.pc.html</item>
+        <item>2-9|大阪市営地下鉄|今里筋線|今里筋線 -RT|http://www.kotsu.city.osaka.jp/sub-info/main.pc.html</item>
+        <item>3-1|近畿日本鉄道|近鉄大阪線|近鉄大阪線 -RT|http://www.kintetsu.jp/unkou/unkou.html</item>
+        <item>3-2|近畿日本鉄道|近鉄奈良線|近鉄奈良線 -RT|http://www.kintetsu.jp/unkou/unkou.html</item>
+        <item>3-3|近畿日本鉄道|近鉄けいはんな線|近鉄けいはんな線 OR けいはんな線 -RT|http://www.kintetsu.jp/unkou/unkou.html</item>
+        <item>3-4|近畿日本鉄道|近鉄信貴線|近鉄信貴線 -RT|http://www.kintetsu.jp/unkou/unkou.html</item>
+        <item>3-5|近畿日本鉄道|近鉄南大阪線|近鉄南大阪線 -RT|http://www.kintetsu.jp/unkou/unkou.html</item>
+        <item>3-6|近畿日本鉄道|近鉄長野線|近鉄長野線 -RT|http://www.kintetsu.jp/unkou/unkou.html</item>
+        <item>3-7|近畿日本鉄道|近鉄道明寺線|近鉄道明寺線 -RT|http://www.kintetsu.jp/unkou/unkou.html</item>
+        <item>3-8|近畿日本鉄道|近鉄西信貴ケーブル|近鉄西信貴ケーブル -RT|http://www.kintetsu.jp/unkou/unkou.html</item>
+        <item>4-1|南海電気鉄道|南海本線|南海本線 -RT|http://www.nankai.co.jp/cgi-bin/retuinfo.cgi</item>
+        <item>4-2|南海電気鉄道|南海高師浜線|南海高師浜線 -RT|http://www.nankai.co.jp/cgi-bin/retuinfo.cgi</item>
+        <item>4-3|南海電気鉄道|南海空港線|南海空港線 -RT|http://www.nankai.co.jp/cgi-bin/retuinfo.cgi</item>
+        <item>4-4|南海電気鉄道|南海多奈川線|南海多奈川線 -RT|http://www.nankai.co.jp/cgi-bin/retuinfo.cgi</item>
+        <item>4-5|南海電気鉄道|南海高野線|南海高野線 -RT|http://www.nankai.co.jp/cgi-bin/retuinfo.cgi</item>
+        <item>4-6|南海電気鉄道|南海汐見橋線|南海汐見橋線 -RT|http://www.nankai.co.jp/cgi-bin/retuinfo.cgi</item>
+        <item>5-1|京阪電気鉄道|京阪本線|京阪本線 -RT|http://www.keihan.co.jp/traffic/traintraffic/</item>
+        <item>5-2|京阪電気鉄道|京阪交野線|京阪交野線 -RT|http://www.keihan.co.jp/traffic/traintraffic/</item>
+        <item>5-3|京阪電気鉄道|京阪中之島線|京阪中之島線 -RT|http://www.keihan.co.jp/traffic/traintraffic/</item>
+        <item>6-1|阪急電鉄|阪急京都本線|阪急京都本線 -RT|http://rail.hankyu.co.jp/railinfo/</item>
+        <item>6-2|阪急電鉄|阪急千里線|阪急千里線 -RT|http://rail.hankyu.co.jp/railinfo/</item>
+        <item>6-3|阪急電鉄|阪急宝塚本線|阪急宝塚本線 -RT|http://rail.hankyu.co.jp/railinfo/</item>
+        <item>6-4|阪急電鉄|阪急箕面線|阪急箕面線 -RT|http://rail.hankyu.co.jp/railinfo/</item>
+        <item>6-5|阪急電鉄|阪急神戸本線|阪急神戸本線 -RT|http://rail.hankyu.co.jp/railinfo/</item>
+        <item>7-1|阪神電気鉄道|阪神本線|阪神本線 -RT|http://www.hanshin.co.jp/railinfo/</item>
+        <item>7-2|阪神電気鉄道|阪神なんば線|阪神なんば線 -RT|http://www.hanshin.co.jp/railinfo/</item>
+        <item>7-3|阪神電気鉄道|阪神武庫川線|阪神武庫川線 -RT|http://www.hanshin.co.jp/railinfo/</item>
+        <item>8-1|大阪高速鉄道|大阪モノレール|大阪モノレール -RT|http://www.osaka-monorail.co.jp/</item>
+        <item>8-2|大阪高速鉄道|大阪モノレール彩都線|大阪モノレール彩都線 -RT|http://www.osaka-monorail.co.jp/</item>
+        <item>9-1|北大阪急行電鉄|北大阪急行|北大阪急行 -RT|http://www.kita-kyu.co.jp/rinku.html</item>
+        <item>10-1|その他|泉北高速鉄道|泉北高速鉄道 -RT|http://www.semboku.jp/delayinfo/</item>
+        <item>10-2|その他|阪堺電軌阪堺線|阪堺電軌阪堺線 -RT|http://www.hankai.co.jp/</item>
+        <item>10-3|その他|阪堺電軌上町線|阪堺電軌上町線 -RT|http://www.hankai.co.jp/</item>
+        <item>10-4|その他|水間鉄道|水間鉄道 -RT|http://www.suitetsu.com/</item>
+        <item>10-5|その他|妙見線|妙見線 -RT|http://www.hankai.co.jp/</item>
+    </string-array>
+
+</resources>

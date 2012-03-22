@@ -1,0 +1,19 @@
+<!-- ヘッダ -->
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/lines_header"
+	android:layout_width="fill_parent"
+	android:layout_height="36dp"
+	android:layout_alignParentTop="true"
+	android:background="@color/head_blue">
+	<TextView
+		android:id="@+id/line_name_tv"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="8dp"
+		android:layout_gravity="center_vertical"
+		android:textSize="20sp"
+		android:singleLine="true"
+		android:ellipsize="start"
+		android:textColor="@color/text_gray_in" />
+</LinearLayout>

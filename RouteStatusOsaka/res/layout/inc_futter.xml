@@ -1,0 +1,31 @@
+<!-- ヘッダ -->
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/line_futter"
+	android:layout_alignParentBottom="true"
+	android:orientation="horizontal"
+	android:layout_width="fill_parent"
+	android:layout_height="50dp"
+	android:background="@color/back_darkblue">
+	<Button
+		android:id="@+id/favorite_bt"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:layout_weight="1"
+		android:gravity="center"
+		android:textSize="18sp"
+		android:textColor="@color/text_gray_in"
+		android:text="@string/favorite"
+		android:background="@drawable/futter_button_back" />
+	<Button
+		android:id="@+id/lines_select_bt"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:layout_marginLeft="1dp"
+		android:gravity="center"
+		android:text="@string/lines_select"
+		android:textSize="18sp"
+		android:textColor="@color/text_gray_in"
+		android:layout_weight="1"
+		android:background="@drawable/futter_button_back" />
+</LinearLayout>

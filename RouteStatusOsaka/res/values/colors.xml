@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color
+		name="head_blue">#007fc9</color>
+	<color
+		name="head_blue_in">#034f6d</color>
+	<color
+		name="back_blue">#ffffff</color>
+	<color
+		name="back_darkblue">#dddddd</color>
+	<color
+		name="star_yellow">#f2b705</color>
+	<color
+		name="star_orange">#f28705</color>
+	<color
+		name="text_gray">#444444</color>
+	<color
+		name="text_gray_in">#ffffff</color>
+</resources>

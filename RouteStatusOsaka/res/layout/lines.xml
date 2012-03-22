@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/back_darkblue"
+    android:baselineAligned="true"
+    android:orientation="vertical" >
+
+    <!-- ヘッダ -->
+
+    <include layout="@layout/inc_header" />
+    <!-- コンテンツ -->
+
+    <ListView
+        android:id="@+id/lines_lv"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/line_futter"
+        android:layout_below="@+id/lines_header"
+        android:background="@color/back_darkblue"
+        android:longClickable="true" />
+
+</RelativeLayout>
